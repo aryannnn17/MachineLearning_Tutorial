@@ -23,7 +23,7 @@ This repository serves as a learning resource for anyone who wants to follow alo
 ✔️ Hyperparameter Tuning  
 
 ### 📌 Projects  
-Along with the tutorial exercises, I have also completed some projects based on machine learning concepts. Check them out in the **[GitHub Projects]([https://github.com/aryannnn17/Projects])** section.  
+Along with the tutorial exercises, I have also completed some projects based on machine learning concepts. Check them out in the **[GitHub Projects](https://github.com/aryannnn17/Projects)** section.  
 
 ### 💡 Acknowledgment  
 Big thanks to **CodeBasics** for providing such an insightful tutorial series on YouTube! 🎉  
